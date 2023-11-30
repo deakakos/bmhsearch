@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Update Docs Home and Neural Magic pages (#7243)
