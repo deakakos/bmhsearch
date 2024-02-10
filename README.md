@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Add docs guide terminal images (#8819)
